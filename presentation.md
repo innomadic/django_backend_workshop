@@ -294,6 +294,10 @@ python manage.py migrate
 * Allow users to put their todo items into multiple lists
 * Create a mobile application which will use the backend
 
+# Additional Resources
+
+* [Django Project](http://djangoproject.com)
+* [Django Rest Framework](http://django-rest-framework.org)
 
 # Thank You
 
