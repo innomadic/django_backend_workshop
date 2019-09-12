@@ -4,6 +4,11 @@ name:  Nick P.
 date: September 12, 2019
 ---
 
+# Welcome
+
+* Download slides at:
+* https://bit.ly/2kwIZC4
+
 # Today's Agenda
 
 * Learn how to build a simple web application backend in Django 
