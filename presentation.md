@@ -7,7 +7,7 @@ date: September 12, 2019
 # Welcome
 
 * Download slides at:
-* https://bit.ly/2kwIZC4
+* https://innomadic.github.io/django_backend_workshop/presentation.html
 
 # Today's Agenda
 
