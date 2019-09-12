@@ -301,4 +301,4 @@ python manage.py migrate
 
 # Thank You
 
-* If you haven't registered, please register at waxqabso.com/workshop for updates on future workshops
+* If you haven't registered, please register at [waxqabso.com/workshop](http://waxqabso.com/workshop) for updates on future workshops
