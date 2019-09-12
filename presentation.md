@@ -58,7 +58,7 @@ python manage.py migrate
 
 # Prerequisites
 
-* Python 3.x
+* Python 3.7
 
 ```bash 
 pip install pipenv
